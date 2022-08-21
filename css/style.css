@@ -28,6 +28,7 @@ body
 .qr-card h1{
     width: 98%;
     margin: auto;
+    font-weight: 700;
     font-size: 25px;
     color: hsl(218, 44%, 22%);
 }

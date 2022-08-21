@@ -12,7 +12,7 @@ body
     background-color: #FFFFFF;
     height: 630px;
     width: 400px;
-    margin:auto;
+    margin: 140px auto;
     border-radius: 20px;
     box-shadow: 0 11px 21px -5px hsl(245deg 75% 52% / 42%);
 }
